@@ -14,9 +14,9 @@
 ## 📌 Projets
 | Projet | Domaine | Stack |
 |---|---|---|
-| [Détection du diabète](#) | Machine Learning | scikit-learn |
-| [Analyse de sentiments COVID-19](#) | NLP | scikit-learn · NLTK |
-| [Prédiction maladies cardiaques](#) | Big Data | PySpark · Spark MLlib |
+| [Détection du diabète](https://github.com/douaa-essalak/diabetes-detection-ml) | Machine Learning | scikit-learn |
+| [Analyse de sentiments COVID-19](https://github.com/douaa-essalak/covid-sentiment-nlp) | NLP | scikit-learn · NLTK |
+| [Prédiction maladies cardiaques](https://github.com/douaa-essalak/cardio-prediction-bigdata) | Big Data | PySpark · Spark MLlib |
 
 ## 📜 Certifications
 Cisco — Data Science Essentials with Python · Huawei ICT Academy — Big Data · OpenClassrooms — Machine Learning
